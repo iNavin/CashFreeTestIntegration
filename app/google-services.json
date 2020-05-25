@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "206782587706",
+    "firebase_url": "https://authenticator-5983a.firebaseio.com",
+    "project_id": "authenticator-5983a",
+    "storage_bucket": "authenticator-5983a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206782587706:android:9bc1470f72c991f22f2603",
+        "android_client_info": {
+          "package_name": "com.example.authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206782587706-d6d8alf6bltdib01rr1j4q76l1jn0d6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticator",
+            "certificate_hash": "07aac311911ca8f03909793580d22b425de0931f"
+          }
+        },
+        {
+          "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRSqv6ElL7xemUZCK6YsBM9YY2ps38Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206782587706:android:0f1dc40a9e6e90072f2603",
+        "android_client_info": {
+          "package_name": "com.example.logintemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRSqv6ElL7xemUZCK6YsBM9YY2ps38Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206782587706:android:099cffc69dab63b02f2603",
+        "android_client_info": {
+          "package_name": "com.inktech.cashfreeintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRSqv6ElL7xemUZCK6YsBM9YY2ps38Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206782587706-2mn333k28ighe8j4pp921t8v9ko5a1nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
